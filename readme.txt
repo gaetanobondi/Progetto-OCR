@@ -1,3 +1,11 @@
+Testo fornito:
+Il cliente è una media azienda italiana del settore GDO (grande distribuzione organizzata) che sta avviando un processo di digitalizzazione a 360° e che ha deciso di affidarsi, per questa finalità, a SB Italia.
+Tra le soluzioni di digitalizzazione di cui il cliente è alla ricerca, una in particolare riguarda lo sviluppo di un sistema che permetta di recuperare le informazioni fondamentali da file immagine di scansioni di documenti di testo (scontrini, ricevute, fatture cartacee, ecc.).
+
+Challenge:
+Data la scansione di uno scontrino italiano, messa a disposizione con apposito file testuale, trovare comune, importo e data. 
+Nello specifico, viene richiesto di realizzare un sistema che consenta di recuperare le informazioni dello scontrino (appunto comune, importo e data) tramite sistemi di OCR e/o AI. Opzionale è recuperare anche le singole voci della spesa e la registrazione dei dati sul database.
+
 Per far funzionare il progetto:
 - Installare tesseract tramite il file .exe
 - Importare il file ocr.sql in MySql
