@@ -1,0 +1,9 @@
+{
+    "require-dev": {
+        "phpunit/php-code-coverage": "^9.2"
+    },
+    "require": {
+        "thiagoalessio/tesseract_ocr": "^2.12",
+        "khaledalam/bard-sdk-php": "^1.0"
+    }
+}
